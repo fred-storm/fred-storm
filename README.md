@@ -23,7 +23,7 @@ I have also worked with Figma to produce web design mockups and plan websites an
 
 ## A bit more
 
-- I love espresso
+- I love espresso ☕
 - I enjoy problem-solving
 - I am always looking to learn
 <!--
