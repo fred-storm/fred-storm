@@ -11,6 +11,7 @@ I have also worked with Figma to produce web design mockups and plan websites an
 
 - Python, JavaScript, Go, SQL
 - Ansible, Bash, PowerShell
+- Docker, Kubernetes 
 - Figma, Affinity Creative Suite
 - Windows, macOS, Linux
 
