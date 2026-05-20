@@ -9,7 +9,7 @@ I have also worked with Figma to produce web design mockups and plan websites an
 
 ## Languages and Tools
 
-- Python, JavaScript, Go
+- Python, JavaScript, Go, SQL
 - Ansible, Bash, PowerShell
 - Figma, Affinity Creative Suite
 - Windows, macOS, Linux
